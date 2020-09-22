@@ -1,2 +1,0 @@
-(this.webpackJsonplf=this.webpackJsonplf||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),l=n(2),c=n.n(l);n(8);var s=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("header",{className:"App-header"},r.a.createElement("p",null,"Luis Felipe - 7dev")))};c.a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(s,null)),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.ab13b8d3.chunk.js.map
