@@ -1,23 +1,39 @@
 {
   "files": {
-    "main.css": "/lf/static/css/main.c5ada4de.chunk.css",
-    "main.js": "/lf/static/js/main.1434162a.chunk.js",
-    "main.js.map": "/lf/static/js/main.1434162a.chunk.js.map",
+    "main.css": "/lf/static/css/main.12b18122.chunk.css",
+    "main.js": "/lf/static/js/main.100517ef.chunk.js",
+    "main.js.map": "/lf/static/js/main.100517ef.chunk.js.map",
     "runtime-main.js": "/lf/static/js/runtime-main.6c55eb13.js",
     "runtime-main.js.map": "/lf/static/js/runtime-main.6c55eb13.js.map",
-    "static/js/2.64e0ac6d.chunk.js": "/lf/static/js/2.64e0ac6d.chunk.js",
-    "static/js/2.64e0ac6d.chunk.js.map": "/lf/static/js/2.64e0ac6d.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/lf/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4bb9581e.chunk.js": "/lf/static/js/2.4bb9581e.chunk.js",
+    "static/js/2.4bb9581e.chunk.js.map": "/lf/static/js/2.4bb9581e.chunk.js.map",
     "index.html": "/lf/index.html",
-    "precache-manifest.d2fa4ff05181be48acbcbd12e4bf100f.js": "/lf/precache-manifest.d2fa4ff05181be48acbcbd12e4bf100f.js",
+    "precache-manifest.3103c859160868fd5d110586fa3e79cd.js": "/lf/precache-manifest.3103c859160868fd5d110586fa3e79cd.js",
     "service-worker.js": "/lf/service-worker.js",
-    "static/css/main.c5ada4de.chunk.css.map": "/lf/static/css/main.c5ada4de.chunk.css.map",
-    "static/js/2.64e0ac6d.chunk.js.LICENSE.txt": "/lf/static/js/2.64e0ac6d.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/lf/static/media/home.5d2f4010.jpg"
+    "static/css/2.d9ad5f5c.chunk.css.map": "/lf/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.12b18122.chunk.css.map": "/lf/static/css/main.12b18122.chunk.css.map",
+    "static/js/2.4bb9581e.chunk.js.LICENSE.txt": "/lf/static/js/2.4bb9581e.chunk.js.LICENSE.txt",
+    "static/js/main.100517ef.chunk.js.LICENSE.txt": "/lf/static/js/main.100517ef.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/lf/static/media/trees.b73e3682.jpg",
+    "static/media/computer.jpg": "/lf/static/media/computer.d86e06ec.jpg",
+    "static/media/email.svg": "/lf/static/media/email.619bcb8b.svg",
+    "static/media/github.svg": "/lf/static/media/github.6dee888b.svg",
+    "static/media/javaLogo.png": "/lf/static/media/javaLogo.c4342418.png",
+    "static/media/linkedin.svg": "/lf/static/media/linkedin.4b475fb3.svg",
+    "static/media/mobile.jpg": "/lf/static/media/mobile.3f3ed6f4.jpg",
+    "static/media/mysqlMariaDBLogo.png": "/lf/static/media/mysqlMariaDBLogo.f6809591.png",
+    "static/media/oracleLogo.png": "/lf/static/media/oracleLogo.59c22c82.png",
+    "static/media/reactLogo.png": "/lf/static/media/reactLogo.37fe8322.png",
+    "static/media/reactlogo.svg": "/lf/static/media/reactlogo.ac8eb9a7.svg",
+    "static/media/springLogo.png": "/lf/static/media/springLogo.9f47f668.png",
+    "static/media/web.jpg": "/lf/static/media/web.54036839.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6c55eb13.js",
-    "static/js/2.64e0ac6d.chunk.js",
-    "static/css/main.c5ada4de.chunk.css",
-    "static/js/main.1434162a.chunk.js"
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4bb9581e.chunk.js",
+    "static/css/main.12b18122.chunk.css",
+    "static/js/main.100517ef.chunk.js"
   ]
 }
